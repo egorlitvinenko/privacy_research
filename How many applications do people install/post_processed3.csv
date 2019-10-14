@@ -1,0 +1,162 @@
+,index,gender,position,industry,earning_year,privacy_feelings,compensation_share_data,value_pers_data,smartphone_kind,nr_devices,tot_install_apps,nr_install_games,nr_purchase_goods_apps,nr_pay_sub_apps,nr_banks_apps,nr_social_net_apps,nr_installed_payment_systems,where,is_student,age_group
+0,0,Male,paid,Technology,medium,annoyed_agree,depends,average cost,other,3,15,0,2,3,1,5,0,OTHER,no_student,26-30
+1,1,Female,unpaid,Consumer,low,nocare_agree,depends,average cost,other,2,22,0,6,0,2,7,1,USA,student,22-25
+2,2,Female,paid,Education,medium,(read_agree)_nowant,yes_pay,expensive,Android,2,10,0,0,2,3,3,1,UK,no_student,36-40
+3,3,Male,paid,Education,low,(read_agree)_nowant,never,highly expensive,iOS,1,15,2,0,0,0,0,0,CONTINENTAL EUROPE,no_student,26-30
+4,4,Male,unpaid,Consumer,low,annoyed_agree,depends,average cost,Android,1,10,3,0,0,1,4,1,USA,student,26-30
+5,5,Female,unpaid,Non-profit,low,nocare_agree,never,highly expensive,Android,3,35,6,2,1,1,5,0,USA,student,17-21
+6,6,Female,unpaid,Consumer,low,nocare_agree,depends,low cost,Android,2,6,1,0,0,1,5,0,USA,no_student,22-25
+7,7,Female,unpaid,Finance,low,nocare_agree,depends,average cost,iOS,2,12,1,2,3,1,9,0,UK,student,17-21
+8,8,Male,unpaid,Education,low,(read_agree)_want,never,expensive,iOS,2,100,15,3,3,2,5,2,CONTINENTAL EUROPE,student,22-25
+9,9,Female,paid,Education,high,nocare_agree,yes_free,low cost,Android,2,50,0,1,1,1,2,1,CONTINENTAL EUROPE,no_student,31-35
+10,10,Female,unpaid,Healthcare,low,nocare_agree,never,highly expensive,iOS,1,20,10,4,0,1,5,0,UK,student,17-21
+11,11,Female,unpaid,Education,low,nocare_agree,depends,average cost,Android,1,4,0,0,0,0,2,0,CONTINENTAL EUROPE,student,22-25
+12,12,Female,unpaid,Healthcare,low,(read_agree)_want,depends,expensive,iOS,2,30,8,10,2,3,6,3,USA,student,26-30
+13,13,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,2,31,1,2,2,1,3,0,UK,student,17-21
+14,14,Male,unpaid,Finance,low,other,depends,average cost,Android,2,21,4,5,0,1,3,1,CONTINENTAL EUROPE,student,17-21
+15,15,Female,unpaid,Technology,low,nocare_agree,depends,expensive,iOS,2,15,0,0,1,0,9,0,CONTINENTAL EUROPE,student,22-25
+16,16,Male,unpaid,Technology,low,nocare_agree,depends,expensive,iOS,2,50,2,5,3,2,5,2,CONTINENTAL EUROPE,student,26-30
+17,17,Female,unpaid,Education,low,nocare_agree,depends,low cost,iOS,1,16,4,8,0,3,3,2,UK,student,22-25
+18,18,Female,unpaid,Technology,low,nocare_agree,depends,average cost,iOS,2,30,1,10,2,1,3,2,UK,student,22-25
+19,19,Male,unpaid,Consumer,low,nocare_agree,depends,average cost,Android,1,35,0,5,2,2,4,1,CONTINENTAL EUROPE,no_student,22-25
+20,20,Female,unpaid,Government,low,nocare_agree,depends,expensive,Android,2,60,20,5,3,10,15,3,UK,student,17-21
+21,21,Female,paid,Government,medium,(read_agree)_nowant,yes_pay,low cost,iOS,1,2,0,0,0,1,0,0,UK,no_student,36-40
+22,22,Female,unpaid,Healthcare,medium,annoyed_agree,depends,average cost,iOS,2,6,2,1,1,1,4,0,CONTINENTAL EUROPE,student,22-25
+23,23,Male,paid,Technology,medium,(read_agree)_nowant,yes_pay,average cost,Android,2,30,4,3,3,1,1,0,UK,no_student,22-25
+24,24,Female,unpaid,Professional Services,low,nocare_agree,yes_free,low cost,iOS,1,100,15,10,2,2,5,0,UK,student,22-25
+25,25,Female,unpaid,Technology,low,nocare_agree,yes_pay,highly expensive,Android,2,190,6,5,2,2,3,0,CONTINENTAL EUROPE,student,22-25
+26,26,Female,unpaid,Education,low,nocare_agree,depends,low cost,iOS,2,35,3,2,0,1,11,0,UK,student,17-21
+27,27,Female,unpaid,Non-profit,low,nocare_agree,yes_pay,average cost,Android,2,66,1,1,2,1,1,1,USA,student,22-25
+28,28,Female,unpaid,Professional Services,low,annoyed_agree,depends,average cost,iOS,2,120,50,2,0,2,5,2,USA,student,17-21
+29,29,Female,unpaid,Consumer,low,nocare_agree,depends,average cost,iOS,2,15,7,4,1,1,5,1,CONTINENTAL EUROPE,student,22-25
+30,30,Female,unpaid,Technology,low,nocare_agree,depends,average cost,iOS,2,35,10,2,1,1,5,0,UK,student,22-25
+31,31,Male,paid,Consumer,low,(read_agree)_want,yes_pay,expensive,Android,1,20,12,0,0,1,4,1,USA,no_student,22-25
+32,32,Female,unpaid,Non-profit,low,nocare_agree,depends,average cost,Android,2,30,5,0,0,3,7,0,UK,student,22-25
+33,33,Male,paid,Technology,high,nocare_agree,yes_pay,highly expensive,iOS,2,56,3,0,0,1,9,1,OTHER,no_student,36-40
+34,34,Male,unpaid,Technology,medium,nocare_agree,depends,average cost,Android,3,61,0,3,3,1,6,2,USA,student,17-21
+35,35,Male,unpaid,Technology,low,other,depends,average cost,Android,1,40,0,0,0,1,1,0,USA,student,22-25
+36,36,Female,unpaid,Consumer,low,nocare_agree,depends,average cost,iOS,2,25,5,2,3,1,5,2,USA,student,17-21
+37,37,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,2,30,0,4,2,2,2,3,UK,student,22-25
+38,38,Male,unpaid,Education,low,(read_agree)_want,depends,average cost,Android,2,57,4,4,0,3,3,1,UK,student,17-21
+39,39,Male,unpaid,Education,low,(read_agree)_want,yes_pay,expensive,Android,2,67,5,3,2,3,3,1,UK,student,17-21
+40,40,Male,unpaid,Finance,low,annoyed_agree,depends,expensive,Android,2,30,3,1,0,3,4,0,CONTINENTAL EUROPE,student,22-25
+41,41,Male,unpaid,Consumer,low,annoyed_agree,depends,expensive,Android,1,6,1,0,0,0,0,0,UK,student,22-25
+42,42,Female,paid,Technology,medium,(read_agree)_nowant,depends,highly expensive,iOS,1,50,20,5,10,1,5,1,USA,no_student,26-30
+43,43,Female,unpaid,Education,low,(read_agree)_nowant,yes_pay,average cost,iOS,1,70,3,0,3,5,8,2,UK,student,22-25
+44,44,Female,unpaid,Professional Services,low,annoyed_agree,yes_pay,expensive,iOS,1,7,0,0,0,0,3,0,USA,student,22-25
+45,45,Male,unpaid,Transport,low,nocare_agree,depends,average cost,Android,1,10,2,2,0,0,2,0,OTHER,student,26-30
+46,46,Female,unpaid,Finance,low,(read_agree)_want,depends,expensive,iOS,2,2,3,10,2,2,5,1,OTHER,student,17-21
+47,47,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,1,20,2,0,1,2,7,1,UK,student,17-21
+48,48,Male,paid,Healthcare,low,annoyed_agree,yes_pay,average cost,Android,4,10,0,2,4,2,2,1,CONTINENTAL EUROPE,no_student,36-40
+49,49,Female,unpaid,Education,low,other,depends,average cost,iOS,3,50,5,20,0,5,5,1,CONTINENTAL EUROPE,student,22-25
+50,50,Female,unpaid,Education,medium,nocare_agree,depends,expensive,iOS,1,34,0,0,2,0,9,1,UK,student,17-21
+51,51,Female,unpaid,Education,low,nocare_agree,depends,low cost,iOS,1,21,4,5,0,3,4,0,CONTINENTAL EUROPE,student,22-25
+52,52,Male,paid,Technology,high,annoyed_agree,depends,low cost,iOS,1,15,1,2,1,3,3,0,CONTINENTAL EUROPE,no_student,26-30
+53,53,Male,paid,Technology,low,nocare_agree,yes_free,free,Android,2,20,30,3,1,2,5,1,CONTINENTAL EUROPE,no_student,31-35
+54,54,Female,unpaid,Healthcare,low,other,yes_pay,expensive,Android,5,50,44,5,0,0,1,0,USA,student,36-40
+55,55,Female,unpaid,Healthcare,low,annoyed_agree,depends,expensive,Android,3,90,0,10,5,1,2,0,CONTINENTAL EUROPE,student,41-47
+56,56,Male,unpaid,Education,low,nocare_agree,depends,average cost,Android,3,55,23,4,0,0,8,0,USA,student,17-21
+57,57,Female,unpaid,Professional Services,low,annoyed_agree,depends,low cost,Android,1,8,0,3,0,0,4,0,CONTINENTAL EUROPE,student,22-25
+58,58,Female,paid,Technology,medium,nocare_agree,depends,average cost,Android,1,120,5,4,0,1,10,4,OTHER,no_student,22-25
+59,59,Male,paid,Consumer,medium,annoyed_agree,yes_pay,expensive,Android,2,20,0,3,4,1,4,1,USA,no_student,26-30
+60,60,Male,unpaid,Professional Services,low,nocare_agree,depends,average cost,iOS,1,80,10,5,5,1,5,1,USA,student,26-30
+61,61,Female,paid,Technology,low,(read_agree)_nowant,yes_pay,average cost,iOS,2,20,1,5,0,3,3,3,UK,no_student,26-30
+62,62,Male,unpaid,Technology,low,nocare_agree,yes_free,low cost,Android,2,20,4,0,0,1,2,1,CONTINENTAL EUROPE,student,17-21
+63,63,Female,unpaid,Education,low,nocare_agree,depends,low cost,iOS,2,32,8,2,0,1,6,0,UK,student,17-21
+64,64,Female,unpaid,Education,low,nocare_agree,depends,expensive,Android,2,20,3,2,2,1,5,3,UK,student,22-25
+65,65,Female,unpaid,Consumer,low,nocare_agree,depends,expensive,Android,2,10,2,5,0,1,4,0,CONTINENTAL EUROPE,student,22-25
+66,66,Female,unpaid,Professional Services,low,nocare_agree,yes_free,low cost,Android,2,12,0,2,2,2,10,1,UK,student,22-25
+67,67,Male,unpaid,Consumer,low,nocare_agree,depends,low cost,iOS,2,25,4,2,0,1,3,0,UK,student,17-21
+68,68,Female,paid,Professional Services,medium,other,depends,average cost,iOS,1,32,5,6,0,1,2,1,USA,no_student,22-25
+69,69,Male,unpaid,Consumer,low,(read_agree)_nowant,depends,average cost,Android,3,32,18,2,0,1,5,1,CONTINENTAL EUROPE,no_student,22-25
+70,70,Female,paid,Healthcare,low,nocare_agree,depends,average cost,other,2,30,10,2,0,2,7,0,UK,no_student,26-30
+71,71,Female,unpaid,Government,low,(read_agree)_nowant,depends,expensive,Android,1,20,3,7,0,0,2,0,UK,student,26-30
+72,72,Female,unpaid,Education,low,annoyed_agree,depends,expensive,iOS,1,10,0,4,1,1,5,1,CONTINENTAL EUROPE,student,17-21
+73,73,Female,unpaid,Professional Services,low,annoyed_agree,depends,low cost,iOS,3,45,5,20,5,2,3,15,USA,student,26-30
+74,74,Female,unpaid,Education,low,(read_agree)_nowant,depends,expensive,Android,1,10,5,0,1,0,2,0,USA,student,17-21
+75,75,Female,unpaid,Education,low,annoyed_agree,yes_pay,expensive,Android,1,11,0,0,1,1,3,0,CONTINENTAL EUROPE,student,17-21
+76,76,Female,unpaid,Consumer,low,annoyed_agree,never,expensive,Android,2,14,0,2,0,1,2,2,UK,student,36-40
+77,77,Male,unpaid,Consumer,low,annoyed_agree,depends,expensive,iOS,2,4,0,1,0,2,1,0,UK,student,31-35
+78,78,Female,unpaid,Technology,low,annoyed_agree,depends,average cost,Android,2,50,2,4,0,0,8,4,USA,student,31-35
+79,79,Male,unpaid,Consumer,low,annoyed_agree,never,expensive,iOS,1,30,0,1,1,1,3,1,CONTINENTAL EUROPE,student,22-25
+80,80,Female,unpaid,Healthcare,low,annoyed_agree,never,highly expensive,Android,1,5,2,0,0,0,3,0,UK,student,17-21
+81,81,Male,paid,Technology,low,(read_agree)_want,yes_pay,highly expensive,iOS,2,12,0,1,2,1,3,1,CONTINENTAL EUROPE,no_student,26-30
+82,82,Male,unpaid,Technology,medium,nocare_agree,never,average cost,iOS,5,41,10,2,2,3,10,2,CONTINENTAL EUROPE,student,22-25
+83,83,Male,paid,Finance,high,(read_agree)_want,depends,highly expensive,iOS,1,15,0,5,1,4,1,3,UK,no_student,36-40
+84,84,Male,unpaid,Consumer,low,other,yes_free,average cost,iOS,1,17,1,1,2,0,2,4,USA,student,22-25
+85,85,Male,unpaid,Education,low,annoyed_agree,depends,average cost,Android,2,11,2,2,0,2,4,0,UK,student,17-21
+86,86,Female,paid,Healthcare,medium,(read_agree)_nowant,yes_pay,average cost,iOS,2,11,5,2,0,2,1,1,CONTINENTAL EUROPE,no_student,22-25
+87,87,Female,paid,Healthcare,low,nocare_agree,depends,average cost,Android,1,50,12,1,3,1,6,3,USA,no_student,22-25
+88,88,Male,unpaid,Non-profit,low,other,depends,highly expensive,Android,1,77,1,0,0,0,0,0,USA,student,41-47
+89,89,Female,unpaid,Finance,low,(read_agree)_nowant,yes_pay,highly expensive,iOS,1,100,20,10,10,4,15,7,CONTINENTAL EUROPE,student,22-25
+90,90,Female,paid,Transport,low,(read_agree)_want,depends,expensive,Android,1,1,0,0,0,1,0,0,USA,no_student,36-40
+91,91,Female,unpaid,Technology,low,nocare_agree,depends,low cost,iOS,3,20,0,0,0,2,6,0,CONTINENTAL EUROPE,student,17-21
+92,92,Female,unpaid,Healthcare,low,(read_agree)_want,depends,low cost,other,1,63,10,12,0,3,9,1,UK,student,17-21
+93,93,Female,unpaid,Education,low,(read_agree)_want,yes_pay,average cost,iOS,1,7,2,3,3,1,5,1,UK,student,17-21
+94,94,Male,unpaid,Technology,low,annoyed_agree,yes_pay,low cost,Android,2,41,22,11,2,2,4,3,UK,student,22-25
+95,95,Female,unpaid,Education,low,nocare_agree,depends,expensive,iOS,2,40,5,0,0,1,10,0,CONTINENTAL EUROPE,student,17-21
+96,96,Female,unpaid,Education,low,nocare_agree,depends,expensive,Android,2,12,5,3,1,0,2,0,USA,student,17-21
+97,97,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,2,35,3,0,2,1,7,2,UK,student,17-21
+98,98,Female,unpaid,Education,low,(read_agree)_want,depends,free,iOS,2,26,4,13,0,2,5,1,UK,student,22-25
+99,99,Female,paid,Education,medium,nocare_agree,depends,expensive,iOS,2,15,3,1,1,0,1,0,USA,no_student,36-40
+100,100,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,1,55,5,12,1,2,10,2,UK,student,17-21
+101,101,Female,unpaid,Technology,low,nocare_agree,depends,expensive,iOS,2,21,0,0,0,1,9,0,USA,student,17-21
+102,102,Male,unpaid,Education,low,annoyed_agree,depends,expensive,other,1,12,0,1,0,0,1,0,UK,student,41-47
+103,103,Female,unpaid,Education,low,nocare_agree,depends,average cost,iOS,2,133,37,2,3,4,6,5,USA,student,22-25
+104,104,Male,unpaid,Education,low,annoyed_agree,depends,low cost,Android,1,15,2,3,1,1,1,2,USA,student,26-30
+105,105,Female,unpaid,Consumer,low,nocare_agree,yes_pay,highly expensive,iOS,3,117,5,10,4,3,5,2,USA,student,17-21
+106,106,Female,unpaid,Technology,low,annoyed_agree,depends,average cost,iOS,2,30,15,5,0,2,6,3,CONTINENTAL EUROPE,student,22-25
+107,107,Female,unpaid,Non-profit,high,(read_agree)_nowant,depends,expensive,iOS,3,50,0,3,5,2,4,2,USA,student,26-30
+108,108,Male,unpaid,Non-profit,low,annoyed_agree,yes_pay,expensive,other,1,107,2,0,0,1,7,1,UK,student,22-25
+109,109,Female,unpaid,Government,low,(read_agree)_nowant,never,average cost,Android,1,15,0,3,0,1,2,0,UK,student,22-25
+110,110,Male,unpaid,Finance,low,(read_agree)_want,depends,low cost,Android,2,54,4,24,1,2,6,3,UK,student,22-25
+111,111,Male,unpaid,Finance,low,(read_agree)_nowant,depends,free,Android,2,31,16,5,12,3,3,3,UK,student,22-25
+112,112,Female,paid,Professional Services,high,nocare_agree,yes_free,low cost,Android,2,36,5,4,2,1,3,0,USA,no_student,26-30
+113,113,Female,unpaid,Professional Services,low,annoyed_agree,depends,average cost,iOS,3,30,8,10,2,3,5,3,USA,student,22-25
+114,114,Male,unpaid,Finance,low,annoyed_agree,never,highly expensive,iOS,2,16,4,0,3,1,5,0,CONTINENTAL EUROPE,student,22-25
+115,115,Male,unpaid,Healthcare,low,(read_agree)_nowant,depends,low cost,Android and iOS,2,40,2,1,1,1,3,0,UK,student,22-25
+116,116,Female,unpaid,Technology,low,annoyed_agree,depends,highly expensive,iOS,3,49,1,0,2,3,4,0,CONTINENTAL EUROPE,student,26-30
+117,117,Male,paid,Finance,medium,(read_agree)_nowant,yes_free,low cost,iOS,2,25,4,5,4,3,6,2,OTHER,no_student,22-25
+118,118,Female,unpaid,Consumer,low,nocare_agree,depends,average cost,Android,1,25,10,2,0,2,5,2,CONTINENTAL EUROPE,student,22-25
+119,119,Female,unpaid,Consumer,low,annoyed_agree,depends,average cost,iOS,1,20,4,10,0,2,5,1,UK,student,22-25
+120,120,Female,paid,Healthcare,low,nocare_agree,yes_pay,expensive,iOS,2,50,20,15,5,2,5,3,USA,no_student,31-35
+121,121,Female,unpaid,Education,low,nocare_agree,yes_pay,average cost,iOS,2,56,12,5,1,2,7,0,USA,student,22-25
+122,122,Female,unpaid,Education,low,nocare_agree,yes_pay,average cost,iOS,2,56,12,5,1,2,7,0,USA,student,22-25
+123,123,Female,unpaid,Education,low,nocare_agree,yes_free,free,Android,1,32,4,1,1,1,6,0,UK,student,22-25
+124,124,Male,unpaid,Education,low,other,depends,expensive,Android,1,10,4,0,0,0,1,1,UK,student,22-25
+125,125,Male,unpaid,Technology,medium,nocare_agree,depends,average cost,iOS,2,41,10,8,3,5,5,1,UK,student,22-25
+126,126,Female,unpaid,Education,low,nocare_agree,depends,expensive,Android,1,32,3,5,2,1,8,0,UK,student,17-21
+127,127,Male,unpaid,Education,low,nocare_agree,depends,average cost,Android,1,13,2,0,0,0,4,0,UK,student,17-21
+128,128,Female,paid,Education,high,annoyed_agree,depends,expensive,Android,3,12,2,6,4,1,2,4,USA,no_student,41-47
+129,129,Male,paid,Consumer,medium,nocare_agree,never,expensive,iOS,3,50,2,3,0,18,15,5,OTHER,no_student,26-30
+130,130,Female,unpaid,Education,low,annoyed_agree,depends,average cost,Android,1,15,0,0,0,0,5,0,CONTINENTAL EUROPE,student,41-47
+131,131,Female,unpaid,Education,low,annoyed_agree,depends,expensive,Android,2,60,0,4,0,2,11,0,CONTINENTAL EUROPE,student,22-25
+132,132,Female,unpaid,Consumer,low,nocare_agree,depends,low cost,other,1,71,8,0,0,1,4,1,CONTINENTAL EUROPE,student,17-21
+133,133,Female,unpaid,Education,low,(read_agree)_nowant,depends,average cost,Android,1,59,4,0,2,2,5,0,USA,student,22-25
+134,134,Female,unpaid,Education,low,(read_agree)_nowant,depends,average cost,Android,1,59,4,5,2,2,4,3,USA,student,22-25
+135,135,Female,unpaid,Non-profit,low,annoyed_agree,depends,average cost,Android,1,15,0,0,0,0,5,0,CONTINENTAL EUROPE,student,41-47
+136,136,Female,unpaid,Technology,medium,annoyed_agree,never,highly expensive,iOS,1,20,0,1,0,0,3,1,USA,student,26-30
+137,137,Male,unpaid,Professional Services,low,(read_agree)_nowant,yes_pay,expensive,Android,1,30,1,2,0,1,3,0,USA,student,26-30
+138,138,Female,paid,Technology,high,(read_agree)_nowant,depends,average cost,Android,1,15,0,4,2,1,3,2,USA,no_student,31-35
+139,139,Female,unpaid,Consumer,low,annoyed_agree,never,highly expensive,iOS,1,10,0,0,0,1,4,0,OTHER,student,22-25
+140,140,Female,unpaid,Education,low,nocare_agree,yes_pay,expensive,iOS,3,30,5,5,0,2,2,2,UK,student,41-47
+141,141,Male,paid,Education,high,(read_agree)_nowant,depends,average cost,iOS,2,32,5,4,1,4,7,3,USA,no_student,36-40
+142,142,non-binary,unpaid,Education,low,nocare_agree,depends,average cost,Android,1,27,8,0,0,0,4,0,CONTINENTAL EUROPE,student,17-21
+143,143,Male,paid,Professional Services,low,(read_agree)_nowant,depends,expensive,other,2,9,0,0,0,0,0,0,UK,no_student,31-35
+144,144,Female,unpaid,Government,low,nocare_agree,depends,average cost,iOS,1,30,7,7,0,1,9,0,OTHER,student,22-25
+145,145,Female,paid,Consumer,medium,nocare_agree,depends,average cost,iOS,3,18,8,4,0,1,4,1,CONTINENTAL EUROPE,no_student,36-40
+146,146,Female,paid,Consumer,low,annoyed_agree,yes_pay,highly expensive,Android and iOS,4,50,10,5,2,2,3,3,USA,no_student,31-35
+147,147,Male,paid,Healthcare,medium,nocare_agree,depends,low cost,other,1,15,1,2,0,3,1,0,CONTINENTAL EUROPE,no_student,26-30
+148,148,Female,paid,Healthcare,medium,annoyed_agree,depends,average cost,Android,1,8,3,0,0,0,2,0,UK,no_student,41-47
+149,149,Male,unpaid,Technology,medium,nocare_agree,depends,average cost,iOS,1,30,10,5,3,2,5,5,USA,student,17-21
+150,150,Female,paid,Professional Services,low,annoyed_agree,depends,highly expensive,iOS,1,20,0,10,5,3,5,0,UK,no_student,22-25
+151,151,Female,paid,Education,medium,nocare_agree,yes_pay,average cost,iOS,3,30,5,10,2,5,3,10,USA,no_student,31-35
+152,152,Female,paid,Education,medium,nocare_agree,depends,low cost,iOS,2,112,15,2,1,3,7,2,USA,no_student,36-40
+153,153,Female,unpaid,Education,high,nocare_agree,never,average cost,Android,2,20,5,5,2,1,4,1,UK,student,17-21
+154,154,Female,paid,Technology,low,nocare_agree,yes_pay,expensive,iOS,2,20,1,1,2,2,4,0,USA,no_student,22-25
+155,155,Female,unpaid,Consumer,low,nocare_agree,depends,average cost,Android,2,10,0,2,0,1,3,0,UK,student,26-30
+156,156,Female,paid,Education,medium,(read_agree)_want,depends,average cost,other,1,60,0,8,2,2,4,1,USA,no_student,41-47
+157,159,Male,unpaid,Education,low,nocare_agree,yes_pay,expensive,iOS,1,15,0,1,1,4,3,1,CONTINENTAL EUROPE,student,26-30
+158,160,Female,paid,Professional Services,low,other,depends,highly expensive,Android,2,50,5,5,5,2,5,0,CONTINENTAL EUROPE,no_student,31-35
+159,161,Female,paid,Professional Services,medium,nocare_agree,depends,highly expensive,iOS,1,25,5,3,0,3,4,-1,USA,no_student,22-25
+160,162,Female,paid,Professional Services,medium,nocare_agree,depends,expensive,iOS,1,20,0,0,1,1,2,2,USA,no_student,26-30
